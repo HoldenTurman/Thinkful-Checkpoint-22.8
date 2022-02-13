@@ -1,0 +1,9 @@
+@media all and(min-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  input {
+    margin: 5px;
+  }
+}
